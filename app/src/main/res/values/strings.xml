@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Homework17</string>
+    <string name="initial_value">0</string>
+    <string name="current_value">Текущее значение счетчика</string>
+    <string name="increase_counter">Увеличить значение</string>
+    <string name="result">Результат</string>
 </resources>
